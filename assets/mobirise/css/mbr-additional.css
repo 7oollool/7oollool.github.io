@@ -5658,13 +5658,14 @@ body {
 .cid-qTkzRZLJNu .navbar-toggleable-sm .navbar-collapse {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
-  padding-right: 5rem;
+  padding-right: 4rem;
   width: auto;
 }
 .cid-qTkzRZLJNu .navbar-toggleable-sm .navbar-collapse .navbar-nav {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   padding-left: 0;
+    direction: rtl;
 }
 .cid-qTkzRZLJNu .navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
   -webkit-align-self: center;
@@ -6662,4 +6663,76 @@ body {
 }
 .cid-ru45fCv34z .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-ruqKWXhuzL .separline::after {
+    top: 32px;
+    right: -53px;
+    position: absolute;
+    content: "";
+    width: 2px;
+    height: calc(100% - (14px + 4px) * 2);
+    background-color: #efefef;
+    display: none;
+}
+.cid-ruqKWXhuzL .step {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    color: white;
+}
+.cid-ruqMJDOxAF .step {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+    border-radius: 50%;
+    border: 2px solid #efefef;
+    color: white;
+}
+.cid-ruqMJDOxAF .separline::after {
+    top: 32px;
+    right: 6px;
+    position: absolute;
+    content: "";
+    width: 2px;
+    height: calc(100% - (14px + 4px) * 2);
+    background-color: #efefef;
+    display: none;
+}
+.cid-ruqRxmut5c .step {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    color: white;
+}
+.cid-ruqRxmut5c .separline::after {
+    top: 32px;
+    left: 12px;
+    position: absolute;
+    content: "";
+    width: 2px;
+    height: calc(100% - (14px + 4px) * 2);
+    background-color: #ffffff;
+    display: none;
+}
+.cid-ruqSmtLmjI .step {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+    border-radius: 50%;
+    border: 2px solid #efefef;
+    color: white;
+}
+.cid-ruqSmtLmjI .separline::after {
+    top: 32px;
+    left: 12px;
+    position: absolute;
+    content: "";
+    width: 2px;
+    height: calc(100% - (14px + 4px) * 2);
+    background-color: #efefef;
+    display: none;
 }
