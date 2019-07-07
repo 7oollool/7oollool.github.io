@@ -5990,6 +5990,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruISYm1y7x .separline {
   position: relative;
@@ -6002,6 +6003,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruISYm1y7x .media-block {
   flex-shrink: 0;
@@ -6041,6 +6043,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYcq9SWWw .separline {
   position: relative;
@@ -6053,6 +6056,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYcq9SWWw .media-block {
   flex-shrink: 0;
@@ -6092,6 +6096,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYy2BAuiW .separline {
   position: relative;
@@ -6104,6 +6109,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYy2BAuiW .media-block {
   flex-shrink: 0;
@@ -6143,6 +6149,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYzaifQv5 .separline {
   position: relative;
@@ -6155,6 +6162,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYzaifQv5 .media-block {
   flex-shrink: 0;
@@ -6194,6 +6202,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYFe0piil .separline {
   position: relative;
@@ -6206,6 +6215,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYFe0piil .media-block {
   flex-shrink: 0;
@@ -6245,10 +6255,12 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYADs6gSZ .separline {
   position: relative;
 }
+
 .cid-ruYADs6gSZ .separline:after {
   top: 32px;
   left: 12px;
@@ -6257,6 +6269,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYADs6gSZ .media-block {
   flex-shrink: 0;
@@ -6296,6 +6309,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYHNP08LM .separline {
   position: relative;
@@ -6308,6 +6322,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYHNP08LM .media-block {
   flex-shrink: 0;
@@ -6347,6 +6362,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYXleLHPX .separline {
   position: relative;
@@ -6359,6 +6375,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+display: none;
 }
 .cid-ruYXleLHPX .media-block {
   flex-shrink: 0;
@@ -6398,6 +6415,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYYleZchv .separline {
   position: relative;
@@ -6410,6 +6428,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYYleZchv .media-block {
   flex-shrink: 0;
@@ -6449,6 +6468,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruYYmIfurS .separline {
   position: relative;
@@ -6461,6 +6481,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruYYmIfurS .media-block {
   flex-shrink: 0;
@@ -6500,6 +6521,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruZ31G2LNi .separline {
   position: relative;
@@ -6512,6 +6534,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruZ31G2LNi .media-block {
   flex-shrink: 0;
@@ -6551,6 +6574,7 @@ body {
   font-size: 14px;
   border-radius: 50%;
   border: 2px solid #efefef;
+    color: white;
 }
 .cid-ruZ4OpaJW6 .separline {
   position: relative;
@@ -6563,6 +6587,7 @@ body {
   width: 2px;
   height: calc(100% - (14px + 4px) * 2);
   background-color: #efefef;
+    display: none;
 }
 .cid-ruZ4OpaJW6 .media-block {
   flex-shrink: 0;
